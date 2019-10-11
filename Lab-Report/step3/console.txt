@@ -1,0 +1,12 @@
+Sigfox Device ID: 
+00214651
+
+PAC number: 
+F15F33C6A859B7F3
+
+Byte:C0
+Byte:FF
+Byte:EE
+
+Status 	OK
+
