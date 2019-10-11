@@ -1,0 +1,12 @@
+Sigfox Device ID: 
+
+PAC number: 
+F15F33C6A859B7F3
+
+light: 23
+Humidity: 408
+light percentage: 2 % 
+Humidity percentage: 39 % 
+0227
+Status 	OK
+
