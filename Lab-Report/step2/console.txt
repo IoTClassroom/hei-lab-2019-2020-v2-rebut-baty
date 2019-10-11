@@ -1,0 +1,128 @@
+light: 913
+light percentage: 89 % 
+light: 912
+light percentage: 89 % 
+light: 910
+light percentage: 88 % 
+light: 909
+light percentage: 88 % 
+light: 911
+light percentage: 89 % 
+light: 912
+light percentage: 89 % 
+light: 913
+light percentage: 89 % 
+light: 915
+light percentage: 89 % 
+light: 919
+light percentage: 89 % 
+light: 919
+light percentage: 89 % 
+light: 919light percentage: 89 % 
+light: 915
+light percentage: 89
+light: 912
+light percentage: 89 % 
+light: 911
+light percentage: 89 % 
+light: 908
+light percentage: 88 % 
+light: 911
+light percentage: 89
+light: 914
+light percentage: 89 % light: 919
+light percentage: 89 % 
+light: 918
+89 % 
+light: 913
+light percentage: 89 % 
+light: 911
+light percentage: 89 % 
+light: 891
+light percentage: 87 % 
+light: 871
+light percentage: 85 % 
+light: 721
+70 % 
+light: 681
+light percentage: 66 % 
+light: 692
+light percentage: 67 % 
+light: 690
+light percentage: 67 % 
+light: 915
+light percentage: 89 % 
+light: 869
+light percentage: 84 % 
+light: 687
+light percentage: 67 % 
+light: 508
+light percentage: 49 % 
+light: 518
+light percentage: 50 % 
+light: 561
+light percentage: 54 % 
+light: 586
+light percentage: 57 % 
+light: 912
+light percentage: 89 % 
+light: 595
+light percentage: 58 % 
+light: 590
+light percentage: 57 % 
+light: 582
+light percentage: 56 % 
+light: 582
+light percentage: 56 % 
+light: 579
+light percentage: 56 % 
+light: 570
+light percentage: 55 % 
+light: 564
+light percentage: 55 % 
+light: 569
+light percentage: 55 % 
+light: 890
+light percentage: 86 % 
+light: 911
+light percentage: 89 % 
+light: 673
+light percentage: 65 % 
+light: 666
+light percentage: 65 % 
+light: 664
+light percentage: 64 % 
+light: 917
+light percentage: 89 % 
+light: 913
+light percentage: 89 % 
+light: 910
+light percentage: 88 % 
+light: 908
+light percentage: 88 % 
+light: 902
+light percentage: 88 % 
+light: 440
+light percentage: 43 % light: 142
+light percentage: 13 % 
+light: 174light percentage: 17 % 
+light: 164
+light percentage: 16 % 
+light: 148
+light percentage: 14 % 
+light: 147
+light percentage: 14 % 
+light: 157
+light percentage: 15
+light: 891
+light percentage: 87
+light: 910
+light percentage: 88 % 
+light: 914
+light percentage: 89 % 
+light: 912
+light percentage: 89 % 
+light: 901
+light percentage: 88 % 
+light: 885
+light percentage: 86 % 
